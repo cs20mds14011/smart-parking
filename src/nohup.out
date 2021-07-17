@@ -240,3 +240,729 @@ Connected to broker
 ['0', '0', 'TS12AB1632', '0', 'HR12DQ9205', '0', 'HR12DQ1231', 'KA12XY1299', 'TS12FE9205', 'DH12FE9000']
 ['0', '0', 'TS12AB1632', '0', 'HR12DQ9205', '0', 'HR12DQ1231', '0', 'TS12FE9205', '0']
 ['']
+2021-07-18 02:10:38 - client_name is ****slot-8****
+2021-07-18 02:10:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:38 - Connected to broker
+2021-07-18 02:10:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:08 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:13 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:18 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:23 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:28 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:33 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:08 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:13 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:38 - client_name is ****slot-2****
+2021-07-18 02:10:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:38 - Connected to broker
+2021-07-18 02:10:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:08 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:13 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:18 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:23 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:28 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:33 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:08 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:13 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:38 - client_name is ****slot-6****
+2021-07-18 02:10:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:38 - Connected to broker
+2021-07-18 02:10:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:08 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:13 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:18 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:23 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:28 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:33 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:08 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:13 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:38 - client_name is ****slot-4****
+2021-07-18 02:10:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:38 - Connected to broker
+2021-07-18 02:10:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:08 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:13 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:18 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:23 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:28 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:33 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:08 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:13 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:38 - client_name is ****slot-3****
+2021-07-18 02:10:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:38 - Connected to broker
+2021-07-18 02:10:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:08 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:13 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:18 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:23 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:28 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:33 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:08 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:13 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:38 - client_name is ****slot-10****
+2021-07-18 02:10:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:38 - Connected to broker
+2021-07-18 02:10:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:08 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:13 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:18 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:23 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:28 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:33 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:08 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:13 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:38 - client_name is ****slot-5****
+2021-07-18 02:10:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:38 - Connected to broker
+2021-07-18 02:10:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:08 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:13 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:18 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:23 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:28 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:33 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:08 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:13 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:38 - client_name is ****slot-7****
+2021-07-18 02:10:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:38 - Connected to broker
+2021-07-18 02:10:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:08 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:13 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:18 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:23 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:28 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:33 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:08 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:13 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:38 - client_name is ****slot-9****
+2021-07-18 02:10:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:38 - Connected to broker
+2021-07-18 02:10:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:08 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:13 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:18 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:23 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:28 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:33 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:08 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:13 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:38 - client_name is ****slot-1****
+2021-07-18 02:10:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:38 - Connected to broker
+2021-07-18 02:10:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:10:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:08 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:13 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:18 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:23 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:28 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:33 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:11:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:08 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:13 - Publishing ground sensor information to Gateway
+['HR26DQ5551', '0', 'TS12AB1632', '0', '0', '0', '0', '0', '0', '0']
+Connected to broker
+['HR26DQ5551', 'HR12DQ1310', 'TS12AB1632', '0', 'HR12DQ9205', '0', '0', '0', '0', 'DH12FE9000']
+['HR26DQ5551', '0', 'TS12AB1632', '0', 'HR12DQ9205', '0', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['0', 'HR12DQ1310', 'TS12AB1632', '0', 'HR12DQ9205', '0', 'HR12DQ1231', '0', 'TS12FE9205', 'DH12FE9000']
+['0', '0', 'TS12AB1632', 'HR12DQ1310', 'HR12DQ9205', '0', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['0', '0', 'TS12AB1632', 'HR12DQ1310', 'HR12DQ9205', '0', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['HR26DQ5551', '0', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', '0', 'TS12FE9205', 'DH12FE9000']
+['0', 'HR12DQ1310', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['0', 'HR12DQ1310', 'TS12AB1632', 'HR12DQ1310', 'HR12DQ9205', '0', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['0', 'HR12DQ1310', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', 'KA12XY1299', 'TS12FE9205', '0']
+['0', 'HR12DQ1310', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', 'KA12XY1299', 'TS12FE9205', '0']
+['0', 'HR12DQ1310', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['0', '0', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['HR26DQ5551', '0', 'TS12AB1632', '0', 'HR12DQ9205', '0', 'HR12DQ1231', 'KA12XY1299', 'TS12FE9205', 'DH12FE9000']
+['0', '0', 'TS12AB1632', '0', 'HR12DQ9205', '0', 'HR12DQ1231', 'KA12XY1299', 'TS12FE9205', '0']
+['0', '0', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['0', '0', 'TS12AB1632', '0', 'HR12DQ9205', '0', 'HR12DQ1231', 'KA12XY1299', 'TS12FE9205', '0']
+['HR26DQ5551', '0', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['0', '0', 'TS12AB1632', '0', 'HR12DQ9205', '0', 'HR12DQ1231', 'KA12XY1299', 'TS12FE9205', 'DH12FE9000']
+['0', '0', 'TS12AB1632', '0', 'HR12DQ9205', '0', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['']
+2021-07-18 02:12:32 - client_name is ****slot-2****
+2021-07-18 02:12:33 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:33 - Connected to broker
+2021-07-18 02:12:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:08 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:13 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:18 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:23 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:28 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:33 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:14:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:14:08 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:33 - client_name is ****slot-10****
+2021-07-18 02:12:33 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:33 - Connected to broker
+2021-07-18 02:12:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:08 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:13 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:18 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:23 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:28 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:33 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:14:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:14:08 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:33 - client_name is ****slot-7****
+2021-07-18 02:12:33 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:33 - Connected to broker
+2021-07-18 02:12:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:08 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:13 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:18 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:23 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:28 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:33 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:14:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:14:08 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:33 - client_name is ****slot-3****
+2021-07-18 02:12:33 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:33 - Connected to broker
+2021-07-18 02:12:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:08 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:13 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:18 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:23 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:28 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:33 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:14:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:14:08 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:33 - client_name is ****slot-1****
+2021-07-18 02:12:33 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:33 - Connected to broker
+2021-07-18 02:12:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:08 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:13 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:18 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:23 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:28 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:33 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:14:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:14:08 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:33 - client_name is ****slot-6****
+2021-07-18 02:12:33 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:33 - Connected to broker
+2021-07-18 02:12:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:08 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:13 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:18 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:23 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:28 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:33 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:14:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:14:08 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:33 - client_name is ****slot-5****
+2021-07-18 02:12:33 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:33 - Connected to broker
+2021-07-18 02:12:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:08 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:13 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:18 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:23 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:28 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:33 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:14:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:14:08 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:33 - client_name is ****slot-9****
+2021-07-18 02:12:33 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:33 - Connected to broker
+2021-07-18 02:12:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:08 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:13 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:18 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:23 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:28 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:33 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:14:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:14:08 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:33 - client_name is ****slot-4****
+2021-07-18 02:12:33 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:33 - Connected to broker
+2021-07-18 02:12:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:08 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:13 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:18 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:23 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:28 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:33 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:14:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:14:08 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:33 - client_name is ****slot-8****
+2021-07-18 02:12:33 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:33 - Connected to broker
+2021-07-18 02:12:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:12:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:08 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:13 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:18 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:23 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:28 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:33 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:38 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:43 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:48 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:53 - Publishing ground sensor information to Gateway
+2021-07-18 02:13:58 - Publishing ground sensor information to Gateway
+2021-07-18 02:14:03 - Publishing ground sensor information to Gateway
+2021-07-18 02:14:08 - Publishing ground sensor information to Gateway
+['HR26DQ5551', '0', 'TS12AB1632', '0', '0', '0', '0', '0', '0', '0']
+Connected to broker
+['HR26DQ5551', 'HR12DQ1310', 'TS12AB1632', '0', 'HR12DQ9205', '0', '0', '0', '0', 'DH12FE9000']
+['HR26DQ5551', '0', 'TS12AB1632', '0', 'HR12DQ9205', '0', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['0', 'HR12DQ1310', 'TS12AB1632', '0', 'HR12DQ9205', '0', 'HR12DQ1231', '0', 'TS12FE9205', 'DH12FE9000']
+['0', '0', 'TS12AB1632', 'HR12DQ1310', 'HR12DQ9205', '0', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['0', '0', 'TS12AB1632', 'HR12DQ1310', 'HR12DQ9205', '0', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['HR26DQ5551', '0', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', '0', 'TS12FE9205', 'DH12FE9000']
+['0', 'HR12DQ1310', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['0', 'HR12DQ1310', 'TS12AB1632', 'HR12DQ1310', 'HR12DQ9205', '0', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['0', 'HR12DQ1310', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', 'KA12XY1299', 'TS12FE9205', '0']
+['0', 'HR12DQ1310', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', 'KA12XY1299', 'TS12FE9205', '0']
+['0', 'HR12DQ1310', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['0', '0', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['HR26DQ5551', '0', 'TS12AB1632', '0', 'HR12DQ9205', '0', 'HR12DQ1231', 'KA12XY1299', 'TS12FE9205', 'DH12FE9000']
+['0', '0', 'TS12AB1632', '0', 'HR12DQ9205', '0', 'HR12DQ1231', 'KA12XY1299', 'TS12FE9205', '0']
+['0', '0', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['0', '0', 'TS12AB1632', '0', 'HR12DQ9205', '0', 'HR12DQ1231', 'KA12XY1299', 'TS12FE9205', '0']
+['HR26DQ5551', '0', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['0', '0', 'TS12AB1632', '0', 'HR12DQ9205', '0', 'HR12DQ1231', 'KA12XY1299', 'TS12FE9205', 'DH12FE9000']
+['0', '0', 'TS12AB1632', '0', 'HR12DQ9205', '0', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['']
+2021-07-18 02:14:56 - client_name is ****slot-3****
+2021-07-18 02:14:56 - Publishing ground sensor information to Gateway
+2021-07-18 02:14:56 - Connected to broker
+2021-07-18 02:15:01 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:06 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:11 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:16 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:21 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:26 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:31 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:36 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:41 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:46 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:51 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:56 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:01 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:06 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:11 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:16 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:21 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:26 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:31 - Publishing ground sensor information to Gateway
+2021-07-18 02:14:56 - client_name is ****slot-4****
+2021-07-18 02:14:56 - Publishing ground sensor information to Gateway
+2021-07-18 02:14:56 - Connected to broker
+2021-07-18 02:15:01 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:06 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:11 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:16 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:21 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:26 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:31 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:36 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:41 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:46 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:51 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:56 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:01 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:06 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:11 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:16 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:21 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:26 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:31 - Publishing ground sensor information to Gateway
+2021-07-18 02:14:56 - client_name is ****slot-6****
+2021-07-18 02:14:56 - Publishing ground sensor information to Gateway
+2021-07-18 02:14:56 - Connected to broker
+2021-07-18 02:15:01 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:06 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:11 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:16 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:21 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:26 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:31 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:36 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:41 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:46 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:51 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:56 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:01 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:06 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:11 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:16 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:21 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:26 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:31 - Publishing ground sensor information to Gateway
+2021-07-18 02:14:56 - client_name is ****slot-8****
+2021-07-18 02:14:56 - Connected to broker
+2021-07-18 02:14:56 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:01 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:06 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:11 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:16 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:21 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:26 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:31 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:36 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:41 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:46 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:51 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:56 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:01 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:06 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:11 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:16 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:21 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:26 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:31 - Publishing ground sensor information to Gateway
+2021-07-18 02:14:56 - client_name is ****slot-5****
+2021-07-18 02:14:56 - Publishing ground sensor information to Gateway
+2021-07-18 02:14:56 - Connected to broker
+2021-07-18 02:15:01 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:06 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:11 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:16 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:21 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:26 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:31 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:36 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:41 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:46 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:51 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:56 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:01 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:06 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:11 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:16 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:21 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:26 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:31 - Publishing ground sensor information to Gateway
+2021-07-18 02:14:56 - client_name is ****slot-7****
+2021-07-18 02:14:56 - Publishing ground sensor information to Gateway
+2021-07-18 02:14:56 - Connected to broker
+2021-07-18 02:15:01 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:06 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:11 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:16 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:21 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:26 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:31 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:36 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:41 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:46 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:51 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:56 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:01 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:06 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:11 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:16 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:21 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:26 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:31 - Publishing ground sensor information to Gateway
+2021-07-18 02:14:56 - client_name is ****slot-1****
+2021-07-18 02:14:56 - Publishing ground sensor information to Gateway
+2021-07-18 02:14:56 - Connected to broker
+2021-07-18 02:15:01 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:06 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:11 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:16 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:21 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:26 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:31 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:36 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:41 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:46 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:51 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:56 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:01 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:06 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:11 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:16 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:21 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:26 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:31 - Publishing ground sensor information to Gateway
+2021-07-18 02:14:56 - client_name is ****slot-10****
+2021-07-18 02:14:56 - Publishing ground sensor information to Gateway
+2021-07-18 02:14:56 - Connected to broker
+2021-07-18 02:15:01 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:06 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:11 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:16 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:21 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:26 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:31 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:36 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:41 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:46 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:51 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:56 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:01 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:06 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:11 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:16 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:21 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:26 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:31 - Publishing ground sensor information to Gateway
+2021-07-18 02:14:56 - client_name is ****slot-2****
+2021-07-18 02:14:56 - Publishing ground sensor information to Gateway
+2021-07-18 02:14:56 - Connected to broker
+2021-07-18 02:15:01 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:06 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:11 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:16 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:21 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:26 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:31 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:36 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:41 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:46 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:51 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:56 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:01 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:06 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:11 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:16 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:21 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:26 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:31 - Publishing ground sensor information to Gateway
+2021-07-18 02:14:56 - client_name is ****slot-9****
+2021-07-18 02:14:56 - Publishing ground sensor information to Gateway
+2021-07-18 02:14:56 - Connected to broker
+2021-07-18 02:15:01 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:06 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:11 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:16 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:21 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:26 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:31 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:36 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:41 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:46 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:51 - Publishing ground sensor information to Gateway
+2021-07-18 02:15:56 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:01 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:06 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:11 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:16 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:21 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:26 - Publishing ground sensor information to Gateway
+2021-07-18 02:16:31 - Publishing ground sensor information to Gateway
+['HR26DQ5551', '0', 'TS12AB1632', '0', '0', '0', '0', '0', '0', '0']
+Connected to broker
+['HR26DQ5551', 'HR12DQ1310', 'TS12AB1632', '0', 'HR12DQ9205', '0', '0', '0', '0', 'DH12FE9000']
+['HR26DQ5551', '0', 'TS12AB1632', '0', 'HR12DQ9205', '0', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['0', 'HR12DQ1310', 'TS12AB1632', '0', 'HR12DQ9205', '0', 'HR12DQ1231', '0', 'TS12FE9205', 'DH12FE9000']
+['0', '0', 'TS12AB1632', 'HR12DQ1310', 'HR12DQ9205', '0', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['0', '0', 'TS12AB1632', 'HR12DQ1310', 'HR12DQ9205', '0', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['HR26DQ5551', '0', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', '0', 'TS12FE9205', 'DH12FE9000']
+['0', 'HR12DQ1310', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['0', 'HR12DQ1310', 'TS12AB1632', 'HR12DQ1310', 'HR12DQ9205', '0', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['0', 'HR12DQ1310', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', 'KA12XY1299', 'TS12FE9205', '0']
+['0', 'HR12DQ1310', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', 'KA12XY1299', 'TS12FE9205', '0']
+['0', 'HR12DQ1310', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['0', '0', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['HR26DQ5551', '0', 'TS12AB1632', '0', 'HR12DQ9205', '0', 'HR12DQ1231', 'KA12XY1299', 'TS12FE9205', 'DH12FE9000']
+['0', '0', 'TS12AB1632', '0', 'HR12DQ9205', '0', 'HR12DQ1231', 'KA12XY1299', 'TS12FE9205', '0']
+['0', '0', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['0', '0', 'TS12AB1632', '0', 'HR12DQ9205', '0', 'HR12DQ1231', 'KA12XY1299', 'TS12FE9205', '0']
+['HR26DQ5551', '0', 'TS12AB1632', '0', 'HR12DQ9205', 'HR12CD1299', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['0', '0', 'TS12AB1632', '0', 'HR12DQ9205', '0', 'HR12DQ1231', 'KA12XY1299', 'TS12FE9205', 'DH12FE9000']
+['0', '0', 'TS12AB1632', '0', 'HR12DQ9205', '0', 'HR12DQ1231', '0', 'TS12FE9205', '0']
+['']

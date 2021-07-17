@@ -30,7 +30,7 @@ response_topic = f'smartparking/findcarbyplatedetails/response'
 # on_connect method for the MQTT client
 def on_connect(client, userdata, flags, rc):
     if rc == 0:
-        print(f"{datetime.now().strftime('%Y-%m-%d %H:%M:%S')} - Connected to broker")
+        #print(f"{datetime.now().strftime('%Y-%m-%d %H:%M:%S')} - Connected to broker")
         global Connected # Use global variable
         Connected = True # Signal connection
     else:
@@ -60,7 +60,7 @@ if __name__ == "__main__":
     client.connect(broker_address, port=port)  # connect to broker
 
     client.loop_start()  # start the loop
-    print(f"{datetime.now().strftime('%Y-%m-%d %H:%M:%S')} - client_name is ****{client_name}****")
+    #print(f"{datetime.now().strftime('%Y-%m-%d %H:%M:%S')} - client_name is ****{client_name}****")
 
     # Subscribing to ground sensors
     for each_client in ground_sensor_list:
