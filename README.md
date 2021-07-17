@@ -18,7 +18,7 @@ The increasing number of vehicles on road, along with the mismanagement of parki
 
 <img src="https://user-images.githubusercontent.com/87573003/126040245-6c99047d-da7d-4373-bcab-67de4f90329c.png" alt="High Level Design" width="1000"/>
 
-<b><i>Components:</i></b><br>
+<b><i>System Components:</i></b><br>
 
 Parking space sensor: 
 - This is a ground based sensor emulated using software
