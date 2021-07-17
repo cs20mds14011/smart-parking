@@ -60,3 +60,6 @@ To simulate the movement of cars in and out of the parking lot, we are using dat
   - Each line in file is the simulated activity for all sensors and this is stepped through once every n seconds
 	
 *Both files above should have same number of lines and columns to ensure same number of parking slots and steps through time
+
+<b><i>User Interface:</i></b>
+
