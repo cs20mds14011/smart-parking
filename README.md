@@ -38,7 +38,7 @@ User Interface:
   -  List free parking slots
   - Given car 4 digits, list all slots with matching car details
 
-<b><i>Communication between components:</i><b>
+<b><i>Communication between components:</i></b>
 - Parking space sensor only sends one-way updates to the Gateway server
 - Gateway server requests the camera sensor for the parking slot of a car given reg. details
 - User interface talks to the Gateway server to make requests
