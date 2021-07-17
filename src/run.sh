@@ -12,6 +12,6 @@ nohup python ground_sensor.py 10 ../data/ground_sensor.txt &
 
 # Start camera sensor
 nohup python camera_sensor.py ../data/camera_sensor.txt &
-
+sleep 2
 # Start Gateway
 python Gateway.py

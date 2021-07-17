@@ -92,10 +92,11 @@ if __name__ == "__main__":
                 break
         elif user_input == '1':
             #parking_lot.print_occupancy()
-            print("Free slots available - ", [f"slot-{x+1}" for x in range(ground_sensor_count) if parking_slot_occupancy[x] == 0])
+            print("Free slots available - ", [f"slot-{x+1}" for x in range(ground_sensor_count) if int(parking_slot_occupancy[x]) == 1])
         elif user_input == '2':
             user_input = input("Enter last four digits of plate number ")
             client.publish(request_topic,user_input.strip())
+            time.sleep(2)
         else:
             print("Invalid Input - Available options are listed at the top")
         _ = input("Press enter to continue\n")

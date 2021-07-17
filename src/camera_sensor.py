@@ -1,6 +1,8 @@
 import time, sys, paho.mqtt.client as mqttClient
 
-plate_number_list = []
+
+ground_sensor_count = 10
+parking_slot_occupancy = [0] * ground_sensor_count
 Connected = False
 hq_address = "127.0.0.1"
 port = 1883
@@ -25,9 +27,9 @@ def getAllMatchingVehicle(plate_number):
     result_dict = {}
     for x in plate_number_list:
         if plate_number in x:
-            result_dict = result_dict.add(plate_number_list.index(x), x)
+            result_dict["Slot-" + str(plate_number_list.index(x))]= "Vehicle number - " + str(x)
     if (len(result_dict) ==0):
-        return "car no available"
+        return "Car not available"
     else:
         return result_dict
 
@@ -37,6 +39,7 @@ def on_message(client, userdata, message):
         plate_number = getPlateNumber(message)
         plate_numbers = getAllMatchingVehicle(plate_number)
         client.publish(response_topic, str(plate_numbers))
+
 
 camera_name_client = "camera_sensor"
 fp = open(sys.argv[1], 'r')  # open(f'../data/camera_sensor.txt',r)
