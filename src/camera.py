@@ -51,7 +51,7 @@ camera_name_client = "camera_sensor"
 
 
 
-fp = open(f'../data/camera_sensor.txt')
+fp = open(f'../data/camera_sensor.txt', "r")
 
 client = mqttClient.Client(camera_name_client)  # create new instance
 client.on_connect = on_connect  # attach function to callback
@@ -69,9 +69,17 @@ client.subscribe(request_topic)
 
 
 try:
-    with open(f'../data/camera_sensor.txt','r') as fp:
-        plate_number_list = fp.read().split(' ')
+    while fp:
+        line = fp.readline().strip("\n").strip()
+        plate_number_list = line.split(' ')
+        print(plate_number_list)
         time.sleep(2)
+
+        if line == "":
+            break
+
+    fp.close()
+
 except KeyboardInterrupt:
     print("exiting")
     client.disconnect()
