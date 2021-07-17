@@ -43,3 +43,20 @@ User Interface:
 - Gateway server requests camera sensor for parking slot of a car with reg. details - <b><u>smartparking/findcarbyplatedetails/request/</b></u>
 - Camera Sensor sends the details of the parking slots of car given reg. details - <b><u>smartparking/findcarbyplatedetails/response/</b></u>
 - User interface talks to the Gateway server to make requests
+
+<b><i>Simulation of parking of cars:</b></i><br>
+
+To simulate the movement of cars in and out of the parking lot, we are using data files to provide inputs to ground and camera sensors. <br>
+
+1 - Ground sensor input file
+  - This file will not have car plate details
+  - This file will only have 1/0 depicting the occupied/vacant statuses of all ground sensors at any point of time
+  - Number of columns in file should be same as number of parking slots
+  - Each line in file is the simulated activity for all sensors and this is stepped through once every n seconds
+	
+2 - Camera sensor input file
+  - This file will have car plate details for each parking slot
+  - Number of columns in file should be same as number of parking slots
+  - Each line in file is the simulated activity for all sensors and this is stepped through once every n seconds
+	
+*Both files above should have same number of lines and columns to ensure same number of parking slots and steps through time
