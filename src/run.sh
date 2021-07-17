@@ -1,3 +1,4 @@
+#!/bin/bash
 # Start ground sensors
 nohup python ground_sensor.py 1 ../data/ground_sensor.txt &
 nohup python ground_sensor.py 2 ../data/ground_sensor.txt &

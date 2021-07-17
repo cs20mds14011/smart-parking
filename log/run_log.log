@@ -1,0 +1,55 @@
+                Smart Parking User Interface
+-------------------------------------------------------------------
+
+Press 1 for listing free parking slots
+Press 2 for searching a car by its plates
+Press 0 to exit
+
+
+Key Input:1
+Free slots available -  ['slot-1', 'slot-2', 'slot-3', 'slot-5', 'slot-10']
+                Smart Parking User Interface
+-------------------------------------------------------------------
+
+Press 1 for listing free parking slots
+Press 2 for searching a car by its plates
+Press 0 to exit
+
+
+Key Input:2
+Enter last four digits of plate number 1632
+{'Slot-2': 'Vehicle number - TS12AB1632'}
+
+                Smart Parking User Interface
+-------------------------------------------------------------------
+
+Press 1 for listing free parking slots
+Press 2 for searching a car by its plates
+Press 0 to exit
+
+
+Key Input:2
+Enter last four digits of plate number 9205
+{'Slot-4': 'Vehicle number - HR12DQ9205', 'Slot-8': 'Vehicle number - TS12FE9205'}
+                Smart Parking User Interface
+-------------------------------------------------------------------
+
+Press 1 for listing free parking slots
+Press 2 for searching a car by its plates
+Press 0 to exit
+
+
+Key Input:2
+Enter last four digits of plate number 3456
+Car not available
+
+                Smart Parking User Interface
+-------------------------------------------------------------------
+
+Press 1 for listing free parking slots
+Press 2 for searching a car by its plates
+Press 0 to exit
+
+
+Key Input:0
+Are you sure you want to exit? Y/Ny
