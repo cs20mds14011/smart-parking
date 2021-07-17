@@ -22,10 +22,10 @@ The increasing number of vehicles on road, along with the mismanagement of parki
 
 Parking space sensor: 
 - This is a ground based sensor emulated using software
-- When a car is parked in a parking slot or taken out from a slot, the sensor sends notification to MQTT topic "smartparking/groundsensor/slot#"
+- When a car is parked in a parking slot or taken out from a slot, the sensor sends notification to Gateway Server
 
 Camera sensor: 
--  This is a camera that can take commands from the server and identify the location of car using OCR, this emulated using software
+-  This is a camera that can take commands from the server and identify the location of car using OCR, this is emulated using software
 -  When a request is recieved to find a car with reg. plate details, camera finds the slot it is parked if present
 
 IOT Gateway Server: 
@@ -39,6 +39,7 @@ User Interface:
   - Given car 4 digits, list all slots with matching car details
 
 <b><i>Communication between components:</i></b>
-- Parking space sensor only sends one-way updates to the Gateway server
-- Gateway server requests the camera sensor for the parking slot of a car given reg. details
+- Parking space sensor only sends one-way updates to the Gateway server on the MQTT topic - <b><u>smartparking/groundsensor/slot#</b></u>
+- Gateway server requests camera sensor for parking slot of a car with reg. details - <b><u>smartparking/findcarbyplatedetails/request/</b></u>
+- Camera Sensor sends the details of the parking slots of car given reg. details - <b><u>smartparking/findcarbyplatedetails/response/</b></u>
 - User interface talks to the Gateway server to make requests
