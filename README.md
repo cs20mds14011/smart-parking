@@ -16,7 +16,8 @@ The increasing number of vehicles on road, along with the mismanagement of parki
 
 <b><i>High level Design: </i></b> <br>
 
-<img src="https://user-images.githubusercontent.com/87573003/126040245-6c99047d-da7d-4373-bcab-67de4f90329c.png" alt="High Level Design" width="1000"/>
+<img src="https://user-images.githubusercontent.com/87573003/126048519-81f75556-7246-4705-aeaa-53508d0d33e4.png" alt="High Level Design" width="1000"/>
+
 
 <b><i>System Components:</i></b><br>
 
@@ -29,9 +30,8 @@ Camera sensor:
 -  When a request is recieved to find a car with reg. plate details, camera finds the slot it is parked if present
 
 IOT Gateway Server: 
-- This is a server/hub with HiveMQ and tinyDB
+- This is a server/hub with HiveMQ
 - HiveMQ acts as a platform for communication between server and sensors
-- tinyDB is going to help us store the events in a miniature database for maintaining the state of the parking space
 
 User Interface: 
 - This is a simple command prompt that is available to the user to do the below queries
