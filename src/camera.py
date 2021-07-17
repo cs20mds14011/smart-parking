@@ -1,6 +1,4 @@
-import ast
-import math
-import sys
+
 import time
 
 import paho.mqtt.client as mqttClient
@@ -29,9 +27,12 @@ def getPlateNumber(message):
 
 def getAllMatchingVehicle(plate_number):
     global plate_number_list
+    result_dict={}
     for x in plate_number_list:
-        if ( plate_number= ):
-            result_dict=result_dict.add({})
+        if ( plate_number in x):
+            result_dict=result_dict.add(plate_number_list.index(x),x)
+    return result_dict
+
 
 
 
@@ -47,7 +48,7 @@ def on_message(client, userdata, message):
 
 
 camera_name_client = "camera_sensor"
-camera_name = "camera_sensor""
+
 
 
 fp = open(f'../data/camera_sensor.txt')
@@ -65,13 +66,11 @@ response_topic= f'smartparking/findcarbyplatedetails/response'
 
 
 client.subscribe(request_topic)
-#client.subscribe(response_topic)
-
 
 
 try:
     with open(f'../data/camera_sensor.txt','r') as fp:
-        plate_number_list = fp.split(' ')
+        plate_number_list = fp.read().split(' ')
         time.sleep(2)
 except KeyboardInterrupt:
     print("exiting")

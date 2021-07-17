@@ -1,5 +1,4 @@
-import ast
-import math
+
 import sys
 import time
 
@@ -21,10 +20,10 @@ def on_connect(client, userdata, flags, rc):
 
 
 def on_message(client, userdata, message):
-    Global IsSlotOccupied
+    global IsSlotOccupied
     #IsSlotOccupied = next(fp).strip("\n").strip()
     print(IsSlotOccupied)
-    client.publish('location/HQ_receive_1', IsSlotOccupied)
+    #client.publish(slot_topic, IsSlotOccupied)
 
 
 
@@ -44,17 +43,14 @@ client.loop_start()  # start the loop
 
 slot_topic = "smartparking/groundsensor/" + slot_name
 
-
-client.subscribe(slot_topic)
-
 try:
     with open(f'../data/{slot_name}.txt','r') as fp:
-        IsOccupied = fp
-        time.sleep(2)
+        IsSlotOccupied = fp.read()
+        client.publish(slot_topic, IsSlotOccupied)
+        print(IsSlotOccupied)
+        time.sleep(3)
 except KeyboardInterrupt:
     print("exiting")
     client.disconnect()
     client.loop_stop()
-finally:
-    if not fp.closed:
-        fp.close()
+
