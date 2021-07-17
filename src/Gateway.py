@@ -1,8 +1,8 @@
 import argparse, paho.mqtt.client as mqttClient
 from os import system
-from tabulate import tabulate
-from tinydb import TinyDB, Query
-import pandas as pd
+#from tabulate import tabulate
+#from tinydb import TinyDB, Query
+#import pandas as pd
 from datetime import datetime
 import sys, time
 
@@ -24,7 +24,8 @@ Connected = False
 ground_sensor_count = 10
 ground_sensor_list = [f"smartparking/groundsensor/slot-{index+1}" for index in range(ground_sensor_count)]
 parking_slot_occupancy = [0] * ground_sensor_count
-
+request_topic = f'smartparking/findcarbyplatedetails/request'
+response_topic = f'smartparking/findcarbyplatedetails/response'
 
 # on_connect method for the MQTT client
 def on_connect(client, userdata, flags, rc):
@@ -64,13 +65,16 @@ if __name__ == "__main__":
     # Subscribing to ground sensors
     for each_client in ground_sensor_list:
         client.subscribe(each_client)
-    print(f"{datetime.now().strftime('%Y-%m-%d %H:%M:%S')} - Subscribed to all ground sensors")
 
+    client.subscribe(response_topic)
+    print(f"{datetime.now().strftime('%Y-%m-%d %H:%M:%S')} - Subscribed to all ground sensors")
+    """
     my_parser = argparse.ArgumentParser()
     my_parser.add_argument('parking_slots', help='Number of parking slots')
     args = my_parser.parse_args()
     number_of_parking_slots = int(args.parking_slots)
     parking_lot = ParkingLot(number_of_parking_slots)
+    """
     screen_prompt = "\t\tSmart Parking User Interface\n" \
                     "-------------------------------------------------------------------\n\n" \
                     "Press 1 for listing free parking slots\n" \
@@ -78,6 +82,7 @@ if __name__ == "__main__":
                     "Press 0 to exit\n\n\n" \
                     "Key Input:" \
                     ""
+
     while True:
         _ = system("clear")
         user_input = input(screen_prompt)
@@ -86,10 +91,11 @@ if __name__ == "__main__":
             if user_input.strip().upper() == 'Y':
                 break
         elif user_input == '1':
-            parking_lot.print_occupancy()
-            print("Free slots available - ", [f"slot-{x}" for x in parking_slot_occupancy if x == 0])
+            #parking_lot.print_occupancy()
+            print("Free slots available - ", [f"slot-{x+1}" for x in range(ground_sensor_count) if parking_slot_occupancy[x] == 0])
         elif user_input == '2':
-            print("Under construction")
+            user_input = input("Enter last four digits of plate number ")
+            client.publish(request_topic,user_input.strip())
         else:
             print("Invalid Input - Available options are listed at the top")
         _ = input("Press enter to continue\n")

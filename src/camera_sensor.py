@@ -26,7 +26,10 @@ def getAllMatchingVehicle(plate_number):
     for x in plate_number_list:
         if plate_number in x:
             result_dict = result_dict.add(plate_number_list.index(x), x)
-    return result_dict
+    if (len(result_dict) ==0):
+        return "car no available"
+    else:
+        return result_dict
 
 
 def on_message(client, userdata, message):
@@ -48,7 +51,7 @@ try:
         line = fp.readline().strip("\n").strip()
         plate_number_list = line.split(' ')
         print(plate_number_list)
-        time.sleep(2)
+        time.sleep(5)
         if line == "":
             break
     fp.close()
