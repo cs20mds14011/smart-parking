@@ -65,9 +65,9 @@ To simulate the movement of cars in and out of the parking lot, we are using dat
 
 Below is the prompt for the user interface.
 
-Smart Parking User Interface
--------------------------------------------------------------------
+Smart Parking User Interface<br>
+-------------------------------------------------------------------<br>
 
-Press 1 for listing free parking slots
-Press 2 for searching a car by its plates
-Press 0 to exit
+Press 1 for listing free parking slots<br>
+Press 2 for searching a car by its plates<br>
+Press 0 to exit<br>
